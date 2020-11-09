@@ -52,3 +52,6 @@ False negative cases in the testing set.
 
 Each GIF has the same name as the original video. If interested, you can check the corresponding original video in RISE dataset:
 https://github.com/CMU-CREATE-Lab/deep-smoke-machine
+
+# Acknowledgements
+We thank Carnegie Mellon University (CMU) and Pennsylvania State University (PSU) for their efforts in environmental protection. We also thank the Big Data Center of Southeast University for providing the facility support on the numerical calculations in this paper.
