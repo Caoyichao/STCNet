@@ -46,3 +46,5 @@ False negative cases in the testing set.
 ![ ](3.WrongNeg/0-6-2018-12-13-3981-1004-4484-1507-180-180-5894-1544717005-1544717180.gif)
 ![ ](3.WrongNeg/0-6-2019-02-04-3981-1004-4484-1507-180-180-9590-1549314050-1549314225.gif)
 
+Each GIF has the same name as the original video. If interested, you can check the corresponding original video in RISE dataset:
+https://github.com/CMU-CREATE-Lab/deep-smoke-machine
