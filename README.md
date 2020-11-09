@@ -3,6 +3,11 @@ STCNet: Spatio-Temporal Cross Network for Industrial Smoke Detection
 
 The code will be available soon.
 
+![ ](0.rgb/0.gif)
+![ ](0.rgb/1.gif)
+![ ](0.rgb/2.gif)
+![ ](0.rgb/3.gif)
+![ ](0.rgb/4.gif)
 
 Input RGB frames (the top row) in RISE dataset and corresponding residual frames (the bottom row)
 
