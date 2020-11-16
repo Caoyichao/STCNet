@@ -63,6 +63,7 @@ We thank Carnegie Mellon University (CMU) and Pennsylvania State University (PSU
 
 # Citation
 If you use our code or paper, please cite:
+
 Y. Cao, Q. Tang, X. Lu, F. Li, and J. Cao, “STCNet: Spatio-Temporal Cross Network for Industrial Smoke Detection,” arXiv:2011.04863 [cs], Nov. 2020, Accessed: Nov. 16, 2020. [Online]. Available: http://arxiv.org/abs/2011.04863.
 
 
