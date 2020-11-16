@@ -5,6 +5,7 @@ The code will be available soon.
 
 # Environment
 Python 3.6
+
 Pytorch 1.3+
 
 # Visualization
