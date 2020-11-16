@@ -3,7 +3,11 @@ STCNet: Spatio-Temporal Cross Network for Industrial Smoke Detection
 
 The code will be available soon.
 
+# Environment
+Python 3.6
+Pytorch 1.3+
 
+# Visualization
 Input RGB frames (the top row) in RISE dataset and corresponding residual frames (the bottom row)
 
 ![ ](0.rgb/0.gif)
@@ -55,3 +59,11 @@ https://github.com/CMU-CREATE-Lab/deep-smoke-machine
 
 # Acknowledgements
 We thank Carnegie Mellon University (CMU) and Pennsylvania State University (PSU) for their efforts in environmental protection. We also thank the Big Data Center of Southeast University for providing the facility support on the numerical calculations in this paper.
+
+# Citation
+If you use our code or paper, please cite:
+Y. Cao, Q. Tang, X. Lu, F. Li, and J. Cao, “STCNet: Spatio-Temporal Cross Network for Industrial Smoke Detection,” arXiv:2011.04863 [cs], Nov. 2020, Accessed: Nov. 16, 2020. [Online]. Available: http://arxiv.org/abs/2011.04863.
+
+
+# Contact
+If you have any question, please feel free to contact me (Yichao Cao, caoyichao@seu.edu.cn).
