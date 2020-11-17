@@ -9,9 +9,8 @@ Python 3.6
 Pytorch 1.3+
 
 # Experiments
-GPU | n | `--batch-size` | img/s | epoch<br>time | epoch<br>cost
---- |--- |--- |--- |--- |---
 Model  | 	S0	| S1  | 	S2  | 	S3  | 	S4  | 	S5  | 	Average
+--- |--- |--- |--- |--- |---
 Flow-SVM | .42 | .59 | .47 | .63 | .52 | .47 | .517
 Flow-I3D | .55 | .58 | .51 | .68 | .65 | .50 | .578
 RGB-SVM | .57 | .70 | .67 | .67 | .57 | .53 | .618
