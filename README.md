@@ -8,7 +8,7 @@ Python 3.6
 
 Pytorch 1.3+
 
-# Experiments\
+# Experiments
 
 F-Scores for some methods on RISE dataset.
 
@@ -104,4 +104,4 @@ Y. Cao, Q. Tang, X. Lu, F. Li, and J. Cao, “STCNet: Spatio-Temporal Cross Netw
 
 
 # Contact
-If you have any question, please feel free to contact me (Yichao Cao, caoyichao@seu.edu.cn).
+If you have any question, please feel free to contact me (Yichao Cao, caoyichao@seu.edu.cn). Thanks :-)
