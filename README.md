@@ -8,7 +8,29 @@ Python 3.6
 
 Pytorch 1.3+
 
+# Experiments
+GPU | n | `--batch-size` | img/s | epoch<br>time | epoch<br>cost
+--- |--- |--- |--- |--- |---
+Model  | 	S0	| S1  | 	S2  | 	S3  | 	S4  | 	S5  | 	Average
+Flow-SVM | .42 | .59 | .47 | .63 | .52 | .47 | .517
+Flow-I3D | .55 | .58 | .51 | .68 | .65 | .50 | .578
+RGB-SVM | .57 | .70 | .67 | .67 | .57 | .53 | .618
+RGB-I3D | .80 | .84 | .82 | .87 | .82 | .75 | .817
+RGB-I3D-ND | .76 | .79 | .81 | .86 | .76 | .68 | .777
+RGB-I3D-FP | .76 | .81 | .82 | .87 | .81 | .71 | .797
+RGB-I3D-TSM | .81 | .84 | .82 | .87 | .80 | .74 | .813
+RGB-I3D-LSTM | .80 | .84 | .82 | .85 | .83 | .74 | .813
+RGB-I3D-NL | .81 | .84 | .83 | .87 | .81 | .74 | .817
+RGB-I3D-TC | .81 | .84 | .84 | .87 | .81 | .77 | .823
+Plain SE-Resnext | .83 | .82 | .84 | .85 | .78 | .83 | .826
+STCNet(MobileNetv2) | .86 | .88 | .87 | .89 | .84 | .86 | .868
+STCNet(SE-ResNext) | .88 | .89 | .90 | .90 | .86 | .88 | .885
+
+
+
+
 # Visualization
+
 Input RGB frames (the top row) in RISE dataset and corresponding residual frames (the bottom row)
 
 ![ ](0.rgb/0.gif)
