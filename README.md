@@ -29,7 +29,7 @@ STCNet(MobileNetv2) | .86 | .88 | .87 | .89 | .84 | .86 | .868
 STCNet(SE-ResNext) | .88 | .89 | .90 | .90 | .86 | .88 | .885
 
 
-Compare with other methods on RISE dataset.
+Compare with other methods on RISE dataset. (RTX2080Ti GPU)
 
 Model | Backbone | Params | Flops | Latency | Throughput | Average
 --- |--- |--- |--- |--- |--- |---
