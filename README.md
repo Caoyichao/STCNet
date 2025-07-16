@@ -1,7 +1,5 @@
 # STCNet
-STCNet: Spatio-Temporal Cross Network for Industrial Smoke Detection
-
-The code will be available soon.
+This repository provides the code for the paper "STCNet: Spatio-Temporal Cross Network for Industrial Smoke Detection".
 
 # Environment
 Python 3.6
